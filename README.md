@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 - Linkedin : **@suyashpandey30**
 
 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javapanda30&bg_color=000000&color=00a329&line=0b7f13&point=2a9237&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=compact" alt="suyashpandey30" /></p>
 
 <h3 align="left">Connect with me:</h3>
