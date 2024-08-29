@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - Developer and Problem Solver
 
-- CheckOut my few of my works [Portfolio](https://portfolio1-eta-gray.vercel.app)
+- CheckOut few of my works [Portfolio](https://portfolio1-eta-gray.vercel.app)
 
 - How to reach me : [**suyashpandeyofficial@gmail.com**](https://linkedin.com/in/suyashpandey30)
 
