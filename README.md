@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hi there 👋</h1>
 
 
-- Infromation Technology Student.
+- Infromation Technology UG student.
 
 - Developer and Problem Solver
 
