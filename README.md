@@ -18,8 +18,8 @@
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=dark" alt="SuyashPandey" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=dark" alt="SuyashPandey" /></p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=dark" alt="suyashpandey30" /></p>
+<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=dark" alt="SuyashPandey" /></p> -->
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=dark" alt="suyashpandey30" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
