@@ -17,9 +17,9 @@
 [![Suyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javapanda30&area=true&hide_border=true&theme=react-dark)]()
 
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=dark" alt="SuyashPandey" />
-<!-- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=dark" alt="SuyashPandey" /></p> -->
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=dark" alt="suyashpandey30" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=neon" alt="SuyashPandey" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=neon" alt="suyashpandey30" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
