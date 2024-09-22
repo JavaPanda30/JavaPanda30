@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently Working on ReactJS and Full Stack Development
+- 🌱 I’m currently Working with ReactJS and Full Stack Development
 - 🤔 I’m currently learning NextJS, AWS and Docker.
 - 👨‍💻 Infromation Technology Undergrad Student.
 - ⚡ My Projects: [Portfolio Website](https://portfolio1-eta-gray.vercel.app)
