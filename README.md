@@ -43,6 +43,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/suyashpandey30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashpandey30" height="30" width="40" /></a>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JavaPanda30&label=Profile%20Visits&color=0e75b6&style=neon" alt="ProfileVisits" /> </p>
+
 </p>
 
 
