@@ -14,7 +14,6 @@
 
 
 
-[![Suyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=javapanda30&area=true&hide_border=true&theme=react-dark)]()
 
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" />
