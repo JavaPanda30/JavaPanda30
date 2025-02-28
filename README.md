@@ -1,22 +1,17 @@
 
-<h1 align="Center">Hi, Suyash here👋</h1>
+<h1 align="left">Hi, Suyash here👋</br></h1>
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=javapanda30&label=Profile%20views&color=0e75b6" /> </p> -->
-
-<p align=center>
-- 🌱 I’m currently Working with ReactJS and Full Stack Development<br/><br/>
-- 🤔 I’m currently learning NextJS, AWS and Docker.<br/><br/>
-- 👨‍💻 Infromation Technology Undergrad Student.<br/><br/>
-- 📫 How to reach me : [**suyashpandeyofficial@gmail.com**](https://linkedin.com/in/suyashpandey30) <br/><br/>
-- 🔗 Linkedin : [**@suyashpandey30**](https://linkedin.com/in/suyashpandey30) <br/><br/>
-<p/>
+- 🌱 I’m currently Working with GoLang and gRPC Backend Development.</br></br>
+- 🤔 I’m interested in learning NextJS, AWS and Docker and Microservices.</br></br>
+- 👨‍💻 Infromation Technology Undergrad Student.</br></br>
+- 📫 How to reach me : [**suyashpandeyofficial@gmail.com**](mailto:suyashpandeyofficial@gmail.com) </br></br>
+- 🔗 Linkedin : [**@suyashpandey30**](https://linkedin.com/in/suyashpandey30) </br></br>
 
 
 
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" /> </p>
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=neon" alt="SuyashPandey" /></p>
+
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" /> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=neon" alt="SuyashPandey" /></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=neon" alt="suyashpandey30" /></p>
 
 <h2 align="center">Languages and Tools:</h2>
