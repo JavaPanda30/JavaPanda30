@@ -4,24 +4,23 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=javapanda30&label=Profile%20views&color=0e75b6" /> </p> -->
 
+<p align=center>
+- 🌱 I’m currently Working with ReactJS and Full Stack Development<br/><br/>
+- 🤔 I’m currently learning NextJS, AWS and Docker.<br/><br/>
+- 👨‍💻 Infromation Technology Undergrad Student.<br/><br/>
+- 📫 How to reach me : [**suyashpandeyofficial@gmail.com**](https://linkedin.com/in/suyashpandey30) <br/><br/>
+- 🔗 Linkedin : [**@suyashpandey30**](https://linkedin.com/in/suyashpandey30) <br/><br/>
+<p/>
 
 
-- 🌱 I’m currently Working with ReactJS and Full Stack Development
-- 🤔 I’m currently learning NextJS, AWS and Docker.
-- 👨‍💻 Infromation Technology Undergrad Student.
-- 📫 How to reach me : [**suyashpandeyofficial@gmail.com**](https://linkedin.com/in/suyashpandey30)
-- 🔗 Linkedin : [**@suyashpandey30**](https://linkedin.com/in/suyashpandey30)
 
 
-
-
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=neon" alt="SuyashPandey" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" /> </p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=neon" alt="SuyashPandey" /></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=neon" alt="suyashpandey30" /></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -38,12 +37,12 @@
 </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/suyashpandey30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suyashpandey30" height="30" width="40" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JavaPanda30&label=Profile%20Visits&color=0e75b6&style=neon" alt="ProfileVisits" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JavaPanda30&label=Profile%20Visits&color=0e75b6&style=neon" alt="ProfileVisits" /> </p>
 
 </p>
 
