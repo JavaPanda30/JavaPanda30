@@ -11,7 +11,6 @@
 
 
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=javapanda30&show_icons=true&locale=en&theme=neon" alt="SuyashPandey" /> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=javapanda30&theme=neon" alt="SuyashPandey" /></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=javapanda30&show_icons=true&locale=en&layout=pie&theme=neon" alt="suyashpandey30" /></p>
 
 <h2 align="center">Languages and Tools:</h2>
@@ -40,5 +39,3 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JavaPanda30&label=Profile%20Visits&color=0e75b6&style=neon" alt="ProfileVisits" /> </p>
 
 </p>
-
-
